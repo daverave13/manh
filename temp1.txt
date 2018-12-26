@@ -3,3 +3,4 @@ asdfavaewrga - 10:25 am 12/26/2018
 okay a second attempt - 11:02 am 12/26/2018
 wow this is actually pretty simple - 11:08:39 12.26.2018
 okey doke boys now we're using the sqldev integration, hold on to your butts! - 11:12:49 12.26.2018
+trying for a smooth run now - 11:33:05 12.26.2018
