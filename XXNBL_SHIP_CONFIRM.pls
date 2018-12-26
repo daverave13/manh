@@ -42,4 +42,4 @@ commit;
    RETURN v_output;
 
 END XXNBL_SHIP_CONFIRM;
---adding this file to the repo - 11:36:09 12.26.2018
+--adding this comment 01:30:47 12.26.2018
