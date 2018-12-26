@@ -42,3 +42,4 @@ commit;
    RETURN v_output;
 
 END XXNBL_SHIP_CONFIRM;
+--adding a comment 03:12:55 12.26.2018
